@@ -1,8 +1,13 @@
 # Deep-Learning-Based-Portfolio-Optimization
 
-The notebooks were created on Google Colab but it can be run locally on Jupyter as well. 
+This repository contains code for project done as part of Vertically Integrated Project (VIP) at NYU.
 
-## Steps to reproduce
+Here we try to reproduce the work done in the paper titled  `A framework for utilizing stock trend prediction
+outputs in stock selection and portfolio optimization by Varun Ramamohan, et al`. 
+
+Specifically, we contruct a LSTM deep learning network to perform stock trend classification and use these results in Markowitz mean-variance portfolio optimization framework. 
+
+## Steps to reproduce 
 
 Prerequisite: 
 
