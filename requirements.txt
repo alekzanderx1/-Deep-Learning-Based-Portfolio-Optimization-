@@ -1,0 +1,12 @@
+Following are the Python packages that need to be installed for the code to run seamlessly:
+
+ta
+quandle
+pandas
+numpy
+matplotlib
+os
+sklearn
+torch
+tqdm
+collections
